@@ -126,16 +126,3 @@ section.topo-do-site .flex{
 }
 
 /* ESTILO DAS ESPECIALIDADES */
-section.especialidades{
-    padding: 40px 4%;
-}
-
-.especialidades.especialidades-box{
-    color: white;
-    padding: 40px;
-}
-
-.especialidades.especialidades-box{
-    font-size: 70px;
-    color: rgb(0, 213, 255);
-}
