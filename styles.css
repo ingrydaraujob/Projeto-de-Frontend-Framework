@@ -126,3 +126,33 @@ section.topo-do-site .flex{
 }
 
 /* ESTILO DAS ESPECIALIDADES */
+section.especialidades{
+    padding: 40px 4%;
+}
+
+section.especialidades .flex{
+    gap: 60px;
+}
+
+.especialidades .especialidade-box{
+    color: white;
+    padding: 40px;
+    border-radius: 20px;
+    margin-top: 45px;
+    transition: 0.5s;
+}
+
+.especialidades .especialidade-box:hover{
+    transform: scale(1.05);
+    box-shadow:0 0 10px #ffffff79;
+}
+
+.especialidades .especialidade-box i{
+    font-size: 70px;
+    color: rgb(0, 213, 255);
+}
+
+.especialidades .especialidade-box h3{
+    font-size: 28px;
+    margin: 15px 0;
+} 
